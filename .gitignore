@@ -1,0 +1,20 @@
+# Compiled Java files
+*.class
+
+# Compiled output
+bin/
+
+# VS Code settings
+.vscode/
+
+# User data
+users.txt
+*_expenses.txt
+*_budget.txt
+
+# JFreeChart source archive
+lib/jfreechart-1.5.3-sources.jar
+
+# OS files
+.DS_Store
+Thumbs.db
